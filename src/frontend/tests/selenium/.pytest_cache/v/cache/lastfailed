@@ -1,0 +1,6 @@
+{
+  "test_admin_config_uc14.py::test_manage_categories_deactivate_uc14": true,
+  "test_uc06.py::test_uc06_view_selected_report_detail": true,
+  "test_identity_and_submission.py": true,
+  "test_uc07.py::TestFollowReport::test_follower_notified_on_status_change": true
+}
